@@ -1,4 +1,4 @@
-# sturdy-adventure
+# train-sequentially
 
 code sample for sequential training.
 
